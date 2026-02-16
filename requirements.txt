@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+groq
+python-dotenv
+xrpl-py
+requests
